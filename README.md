@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ChezZak" alt="Profile Views" /> </p>  
 
-<a align="center">
- <header class="d-xl-flex flex-column justify-content-xl-center align-items-xl-center" style="height: 418px;text-align: center;margin: 55px;"><img class="rounded" src="[https://discord.c99.nl/widget/theme-4/953281679609454612.png](https://discord.c99.nl/widget/theme-4/903942978278662194.png)" width="640" height="150" style="margin-top: 30px;">
-</a>
+<p align="center">
+  <a href="https://discord.com/users/456857241593708554">
+     <img src="https://discord.c99.nl/widget/theme-4/903942978278662194.png" alt="Chez_Zak2#8156 ( 903942978278662194 )"/>
+       </a>
+</p>
