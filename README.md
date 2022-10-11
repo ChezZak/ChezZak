@@ -5,6 +5,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/903942978278662194">
-     <img src="https://discord.c99.nl/widget/theme-4/903942978278662194.png" alt="https://discord.c99.nl/widget/theme-4/903942978278662194.png" ( 903942978278662194 )"/>
+     <img src="https://discord.c99.nl/widget/theme-4/903942978278662194.png"/>
        </a>
 </p>
